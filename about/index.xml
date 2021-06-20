@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>会社紹介 on My New Hugo Site</title>
+    <link>https://dkm-demo.github.io/about/</link>
+    <description>Recent content in 会社紹介 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 May 2021 10:13:36 +0900</lastBuildDate><atom:link href="https://dkm-demo.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>メディア掲載</title>
+      <link>https://dkm-demo.github.io/about/%E3%83%A1%E3%83%86%E3%82%99%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</link>
+      <pubDate>Mon, 10 May 2021 11:40:57 +0900</pubDate>
+      
+      <guid>https://dkm-demo.github.io/about/%E3%83%A1%E3%83%86%E3%82%99%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89/</guid>
+      <description>◆書籍「今の大ヒットはこれだ!! 2017」（2017年7月7日発売）に紹介されました！ 株式会社ミスターパートナーが発行する「今の大ヒットはこれだ!! 2017」で弊社が紹介されました。
+画像をクリックすると、詳細を読むことができるブログ記事が表示されます。
+◆「リフォーム産業新聞」（2017年3月7日号）に紹介されました！ 住宅リフォーム市場向けの経営専門誌「リフォーム産業新聞」の2017年3月7日号に弊社の紹介記事が掲載されました。
+新聞記事をクリックすると、詳細を読むことができるブログ記事が表示されます。
+◆「工業技術新聞」（2017年3月10日発行）に紹介されました！ 2016年12月に東京ビッグサイトで開催された「住宅・都市イノベーション総合展（高性能住宅設備EXPO）」に出展した際の様子をご紹介いただきました。
+新聞記事をクリックすると、詳細を読むことができるブログ記事が表示されます。</description>
+    </item>
+    
+    <item>
+      <title>展示会出店</title>
+      <link>https://dkm-demo.github.io/about/%E5%B1%95%E7%A4%BA%E4%BC%9A%E5%87%BA%E5%BA%97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dkm-demo.github.io/about/%E5%B1%95%E7%A4%BA%E4%BC%9A%E5%87%BA%E5%BA%97/</guid>
+      <description>◆東京ビッグサイトで行われた「第1回高性能住宅設備EXPO」に出店しました！
+2016年12月14日から16日までの３日間、東京ビッグサイトで「第1回高性能住宅設備EXPO」が開催されました。
+住宅・都市イノベーション総合展の１つの分野である「高性能住宅EXPO」に出店しました。出店してみると出展社の多くは誰もが知っている有名な大企業が多く、創業2年目の当社は場違いな印象でしたが、３日間なんとか無事に出展することができました。
+出展準備前の当社ブースの様子
+出展前、当社の鈴木君が準備中
+ブースへの来訪者に説明している様子　その１
+ブースへの来訪者に説明している様子　その２</description>
+    </item>
+    
+  </channel>
+</rss>

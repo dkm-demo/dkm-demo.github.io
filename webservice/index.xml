@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webサービス on My New Hugo Site</title>
+    <link>https://dkm-demo.github.io/webservice/</link>
+    <description>Recent content in Webサービス on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 May 2021 10:08:58 +0900</lastBuildDate><atom:link href="https://dkm-demo.github.io/webservice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QRコード一括変換　無料版</title>
+      <link>https://dkm-demo.github.io/webservice/webservice_qrfree/</link>
+      <pubDate>Mon, 10 May 2021 11:38:44 +0900</pubDate>
+      
+      <guid>https://dkm-demo.github.io/webservice/webservice_qrfree/</guid>
+      <description>概要 PCのキーボード入力と比較すると、スマホでの文字入力は面倒なものです。このサービスでは、複数のテキストを個別にコピー可能な一時的なWebページを生成し、QRコードでスマホに送ることができます。登録フォームなどに入力する住所氏名、SNSで友人に送りたい長文など、様々な用途で利用可能です。
+生成されるWebページのurlはランダムな長い文字列からなり、偶然他人に発見されることはまずありません。また、利用者が閉じるとページ自体も破棄されます。
+使い方 PCでサイトを開くと以下のような画面となります。入力欄にテキストを入力します。複数の項目を使用したい場合は「項目追加」で追加します。
+※誤って余分に項目を追加しても問題はありません
+入力例
+入力が完了したら「送信」をクリックします。一時的なWebページを生成し、QRコードを表示します。
+スマホ側の操作 スマホのカメラでQRコードを読み取り、Webページを開くとこのような画面が開きます。
+※カメラでQRコードを読み取る機能については、機種やOSバージョンなどにより違います。こちらでは説明しません。
+各項目の「Copy Text」をタップすると、テキストがクリップボードにコピーされます。あとは目的のアプリで貼り付けるなどしてご利用ください。
+コピーした項目は以下のような表示となります。同じ項目を再度コピーしなおすときは、一度「Retry」をタップし、再度「Copy Text」をタップしてください。
+免責事項 当サービスはセキュリティを考慮した設計となっておりますが、完全な安全性を保障するものではありません。また、当サービスを使用したことにより生じた損害等については一切の責任を負いかねますのでご了承ください。
+👉QRコード一括変換 無料版</description>
+    </item>
+    
+  </channel>
+</rss>
